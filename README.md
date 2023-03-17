@@ -1,2 +1,5 @@
 # Community
-Coordination of this organization
+
+Coordination of this organization.
+
+- [Meeting minutes](minutes/)
